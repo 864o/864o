@@ -6,16 +6,40 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=500&lines=hi+i'm+EviL" />
 
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-leanyash.space-BB9AF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leanyash.space/)
-[![GitHub](https://img.shields.io/badge/GitHub-864o-BB9AF7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/864o)
+<br>
 
+> code • create • repeat
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-leanyash.space-BB9AF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://leanyash.space/)
+<br>
 ![Visitors](https://komarev.com/ghpvc/?username=864o&color=BB9AF7)
 
 </div>
-<br>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:bb9af7&height=2&section=header"/>
-<br><br><br>
-<img src="toji.gif" width="520" style="border-radius:16px;" />
+
+---
+
+```py
+class Evil:
+    def __init__(self):
+        self.role = "Backend Developer"
+        self.language = "Python"
+        self.interests = [
+            "building things",
+            "breaking things",
+            "fixing things",
+            "sleep"
+        ]
+
+    def current_status(self):
+        return "listening to music"
+```
+
+<br><br>
+
+<div align="center">
+
+<img src="./hm.jpg" width="480">
+
 </div>
